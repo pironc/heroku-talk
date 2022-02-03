@@ -1,1 +1,1 @@
-"worker": "python3 talk.py"
+worker: python3 talk.py
